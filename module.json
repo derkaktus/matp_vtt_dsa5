@@ -68,6 +68,6 @@
             "type": "Playlist"
         }
     ],
-    "manifest": "https://github.com/derkaktus/matp_vtt_dsa5/blob/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://raw.githubusercontent.com/derkaktus/matp_vtt_dsa5/main/module.json",
+    "download": "https://github.com/derkaktus/matp_vtt_dsa5/archive/refs/tags/1.0.0.zip"
   }

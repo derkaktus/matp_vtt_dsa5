@@ -1,12 +1,23 @@
 {
-    "name": "my-content-module",
-    "title": "My Content Module",
-    "description": "A collection of my content.",
-    "version": "1.0.0",
-    "author": "Me",
-    "minimumCoreVersion": "0.8.6",
-    "compatibleCoreVersion": "9",
-    "packs": [
+  "id": "matp_vtt_dsa5",
+  "name": "matp_vtt_dsa5",
+  "title": "MAtP Basismodul",
+  "description": "MAtP Basismodul mit allen individuellen Anpassungen, Charakteren und Karten.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "0.8.6",
+    "verified": "10",
+    "maximum": "10"
+  },
+  "author": "MAtP",
+  "authors": [
+    {
+      "name": "MAtP"
+    }
+  ],
+  "packs": [
         {
             "name": "matp_creatures",
             "label": "MAtP Kreaturen",

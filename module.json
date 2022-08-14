@@ -8,55 +8,55 @@
     "compatibleCoreVersion": "9",
     "packs": [
         {
-            "name": "module-creatures",
-            "label": "Module Creatures",
+            "name": "matp_creatures",
+            "label": "MAtP Kreaturen",
             "path": "./packs/creatures.db",
             "entity": "Actor",
             "type": "Actor"
         },
         {
-            "name": "module-items",
-            "label": "Module Items",
+            "name": "matp_items",
+            "label": "MAtP Items",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item"
         },
         {
-            "name": "module-scenes",
-            "label": "Module Scenes",
+            "name": "matp_scenes",
+            "label": "MAtP Scenes",
             "path": "./packs/scenes.db",
             "entity": "Scene",
             "type": "Scene"
         },
         {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
+            "name": "matp_journal-entries",
+            "label": "MAtP Journal Entries",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
-            "name": "module-macros",
-            "label": "Module Macros",
+            "name": "matp_macros",
+            "label": "MAtP Macros",
             "path": "./packs/macros.db",
             "entity": "Macro",
             "type": "Macro"
         },
         {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
+            "name": "matp_roll-tables",
+            "label": "MAtP Roll Tables",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
         },
         {
-            "name": "module-playlists",
-            "label": "Module Playlists",
+            "name": "matp_playlists",
+            "label": "MAtP Playlists",
             "path": "./packs/playlists.db",
             "entity": "Playlist",
             "type": "Playlist"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "manifest": "https://github.com/derkaktus/matp_vtt_dsa5/blob/main/module.json",
     "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
   }

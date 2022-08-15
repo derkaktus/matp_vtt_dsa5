@@ -3,7 +3,7 @@
   "name": "matp-heldengruppe",
   "title": "MAtP Die Heldengruppe",
   "description": "MAtP Basismodul mit allen individuellen Anpassungen, Charakteren und Karten.",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "minimumCoreVersion": "0.8.6",
   "compatibleCoreVersion": "10",
   "compatibility": {
@@ -68,6 +68,6 @@
             "type": "Playlist"
         }
     ],
-    "manifest": "",
+    "manifest": "https://raw.githubusercontent.com/derkaktus/matp_vtt_dsa5/main/matp-heldengruppe/module.json",
     "download": ""
   }

@@ -1,6 +1,6 @@
 (() => {
   const adventureName = 'MAtP Heldengruppe';
-  const moduleName = 'matp_heldengruppe';
+  const moduleName = 'matp-heldengruppe';
 
   /**
    * welcomeJournal (if set) will automatically be imported and opened after the first activation of a
@@ -10,14 +10,14 @@
    * Set to the following to disable:
    *   const welcomeJournal = '';
    */
-  const welcomeJournal = 'Startjournal';
+  const welcomeJournal = 'Die Heldengruppe';
   /**
    * additionalJournals will automatically be imported. This is a list of Journals by name that should
    * also be imported.
    * Set to the following to disable:
    *   const additionalJournals = [];
    */
-  const additionalJournals = ["addJournals"];
+  const additionalJournals = [];
   /**
    * additionalMacros will automatically be imported. Each name must match exactly and are case sensitive.
    * Set to the following to disable:
@@ -64,7 +64,7 @@
    * Set to the following to disable:
    *   const additionalModulePacks = [];
    */
-  const additionalModulePacks = ["matp_vtt_dsa5","searchModules"];
+  const additionalModulePacks = ["matp-heldengruppe","searchModules"];
 
   Hooks.once('scenePackerReady', ScenePacker => {
     // Initialise the Scene Packer with your adventure name and module name

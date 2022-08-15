@@ -1,6 +1,6 @@
 (() => {
-  const adventureName = 'MAtP Basismodul';
-  const moduleName = 'matp_vtt_dsa5';
+  const adventureName = 'MAtP Heldengruppe';
+  const moduleName = 'matp_heldengruppe';
 
   /**
    * welcomeJournal (if set) will automatically be imported and opened after the first activation of a

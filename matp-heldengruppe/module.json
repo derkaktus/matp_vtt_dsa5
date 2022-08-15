@@ -1,7 +1,7 @@
 {
-  "id": "matp_vtt_dsa5",
-  "name": "matp_vtt_dsa5",
-  "title": "MAtP Basismodul",
+  "id": "matp-heldengruppe",
+  "name": "matp-heldengruppe",
+  "title": "MAtP Die Heldengruppe",
   "description": "MAtP Basismodul mit allen individuellen Anpassungen, Charakteren und Karten.",
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.6",
@@ -20,54 +20,54 @@
   "packs": [
         {
             "name": "matp_creatures",
-            "label": "MAtP Kreaturen",
+            "label": "Heldengruppe Akteure",
             "path": "./packs/creatures.db",
             "entity": "Actor",
             "type": "Actor"
         },
         {
             "name": "matp_items",
-            "label": "MAtP Items",
+            "label": "Heldengruppe Items",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item"
         },
         {
             "name": "matp_scenes",
-            "label": "MAtP Scenes",
+            "label": "Heldengruppe Szenen",
             "path": "./packs/scenes.db",
             "entity": "Scene",
             "type": "Scene"
         },
         {
             "name": "matp_journal-entries",
-            "label": "MAtP Journal Entries",
+            "label": "Heldengruppe Journale",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
             "name": "matp_macros",
-            "label": "MAtP Macros",
+            "label": "Heldengruppe Macros",
             "path": "./packs/macros.db",
             "entity": "Macro",
             "type": "Macro"
         },
         {
             "name": "matp_roll-tables",
-            "label": "MAtP Roll Tables",
+            "label": "Heldengruppe Roll Tables",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
         },
         {
             "name": "matp_playlists",
-            "label": "MAtP Playlists",
+            "label": "Heldengruppe Playlists",
             "path": "./packs/playlists.db",
             "entity": "Playlist",
             "type": "Playlist"
         }
     ],
-    "manifest": "https://raw.githubusercontent.com/derkaktus/matp_vtt_dsa5/main/module.json",
-    "download": "https://github.com/derkaktus/matp_vtt_dsa5/archive/refs/tags/1.0.0.zip"
+    "manifest": "",
+    "download": ""
   }

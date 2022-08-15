@@ -12,6 +12,7 @@ Eine Beschreibung für die grundlegende Ordnerstruktur ist in den Anleitungen zu
 MAtP-Heldengruppe
 Das Basismodul mit den Charakteren der Gruppe sowie ihrer Gefährten (Menschen wie Tiere), Erschaffene Artefakte und Hausregeln.
 Installation: https://raw.githubusercontent.com/derkaktus/matp_vtt_dsa5/main/matp-heldengruppe/module.json
+Colorcode: #9c9c16
 
 MAtP-Gratenfels
 Unsere "Regionalspielhilfe" der Stadt Gratenfels, mit einer späteren Erweiterung um das Umland. Diese fußt auf den Ulysses DSA Informationen von DSA 1-5 wurde aber durch Ingame Ereignissen fortgeführt.
